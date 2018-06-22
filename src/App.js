@@ -1,10 +1,19 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 //needs completed paths
-import Articles from './articles';
-import Detail from './detail';
 import NoMatch from './NoMatch';
-import Nav from '.components/Nav';
+import DeleteBtn from './components/DeleteBtn';
+import Form from './components/Form';
+import Grid from './components/Grid';
+import Jumbotron from './components/Jumbotron';
+import List from './components/List';
+import Results from './components/Results';
+import Saved from './components/Saved';
+import SearchForm from './components/SearchForm';
+import Wrapper from './components/Wrapper';
+
+
+
 
 
 
